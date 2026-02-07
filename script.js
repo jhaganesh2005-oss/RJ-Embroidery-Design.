@@ -4,13 +4,13 @@
 ===================================== */
 const products = [
     {
-        name: "Floral Hand Embroidery",
-        price: "₹499",
+        name: "design:-01",
+        price: "₹350",
         creator: "RJ Embroidery",
-        description: "Elegant floral hand embroidery design.",
-        contact: "https://wa.me/918170972225?text=Hi, I want Floral Hand Embroidery design",
-        images: ["p2.jpg",]
-    },
+        description: "panel stich 43000 , patti , 3mm sequenced design.",
+        contact: "https://wa.me/918170972225?text=Hi, I want design:-01",
+        images: ["D1.jpg","D2.jpg"]
+    }
 ];
 
 /* =====================================
