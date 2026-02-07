@@ -9,8 +9,8 @@ const products = [
         creator: "RJ Embroidery",
         description: "Elegant floral hand embroidery design.",
         contact: "https://wa.me/918170972225?text=Hi, I want Floral Hand Embroidery design",
-        images: ["p2.jpg"]
-    }
+        images: ["p2.jpg",]
+    },
 ];
 
 /* =====================================
@@ -146,5 +146,3 @@ function zoomImage(src){
     zoom.onclick = ()=>{ zoom.remove(); };
     document.body.appendChild(zoom);
 }
-
-
