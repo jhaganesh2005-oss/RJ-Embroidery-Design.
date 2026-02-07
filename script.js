@@ -10,22 +10,6 @@ const products = [
         description: "Elegant floral hand embroidery design.",
         contact: "https://wa.me/918170972225?text=Hi, I want Floral Hand Embroidery design",
         images: ["p1.jpg","p2.jpg","p3.jpg"]
-    },
-    {
-        name: "Wedding Special Design",
-        price: "₹799",
-        creator: "RJ Embroidery",
-        description: "Premium bridal embroidery pattern.",
-        contact: "https://wa.me/919800000000",
-        images: ["p2.jpg"]
-    },
-    {
-        name: "Wedding Special Design",
-        price: "₹799",
-        creator: "RJ Embroidery",
-        description: "Premium bridal embroidery pattern.",
-        contact: "https://wa.me/919800000000",
-        images: ["p2.jpg"]
     }
 ];
 
@@ -162,3 +146,4 @@ function zoomImage(src){
     zoom.onclick = ()=>{ zoom.remove(); };
     document.body.appendChild(zoom);
 }
+
