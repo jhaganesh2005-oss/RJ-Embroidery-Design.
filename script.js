@@ -9,7 +9,7 @@ const products = [
         creator: "RJ Embroidery",
         description: "panel stich 43000 , patti , 3mm sequenced design.",
         contact: "https://wa.me/918170972225?text=Hi, I want design:-01",
-        images: ["D1.jpg","D2.jpg"]
+        images: ["Da-01.jpg","Db-01.jpg"]
     }
 ];
 
@@ -146,3 +146,4 @@ function zoomImage(src){
     zoom.onclick = ()=>{ zoom.remove(); };
     document.body.appendChild(zoom);
 }
+
